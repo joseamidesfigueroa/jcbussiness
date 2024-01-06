@@ -469,10 +469,12 @@ nav.main-menu {
 .menu-area-main li:hover a,
 .menu-area-main li:focus a {
 	color: #ffc221;
+	color: #085263;
 }
 
 .menu-area-main li.active a {
 	color: #ffc221;
+	color: #085263;
 }
 
 .right_cart_section {
@@ -1649,6 +1651,7 @@ input[type="radio"] .styled:checked+label::after {
 
 .buy {
 background: #ffc221;
+background: #085263;
 padding: 7px 41px !important;
 margin-top: 18px;
 border-radius: 5px;
@@ -1660,7 +1663,7 @@ float: right;
 	color: #fff;
 }
 
-.head_top {background: #ffc221;
+.head_top {background: #ffc221; background: #085263;
 margin-bottom: 35px;
 }
 ul.sociel_link {
@@ -1729,6 +1732,7 @@ font-size: 18px;
 .banner-main .carousel-caption a {
     width: 250px;
 background: #ffc221;
+background: #085263;
 padding: 9px 0px;
 color: #fff;
 font-size: 17px;
@@ -1741,7 +1745,7 @@ margin-top: 20px;
 .banner-main .carousel-caption a:hover {
 	background: #000;
 }
-.yellow_bold {color: #ffc221;}
+.yellow_bold {color: #ffc221; color: #085263;}
 
 /** whyschose section **/
 
@@ -1761,6 +1765,7 @@ margin-top: 20px;
 	font-size: 50px;
 	line-height: 55px;
 	color:#ffc221;
+	color: #085263;
 	font-weight: 500;
 	text-transform: uppercase;
     margin-bottom: 27px;
@@ -1791,6 +1796,7 @@ margin-top: 20px;
 
 .choose_bg {
 	background: #f9be20;
+	background: #085263;
 }
 
 
@@ -1895,6 +1901,7 @@ margin-top: 40px;
 	font-size: 50px;
 	line-height: 55px;
 	color:#ffc221;
+	color: #085263;
 	font-weight: 500;
 	text-transform: uppercase;
     margin-bottom: 27px;
@@ -1938,6 +1945,7 @@ margin-top: 20px;
  .product-bg .product-bg-white .product-box i img {width: 100%;}
  .product-bg .product-bg-white .product-box:hover {
  	background: #fdc24f;
+	background: #085263;
  }
 
  .product-bg .product-bg-white .product-box  h3 {
@@ -2005,7 +2013,7 @@ margin-top: 20px;
 	background: #0c0505;
 }
 
-.yellow_bg {background: #ffc221; 
+.yellow_bg {background: #ffc221; background: #085263;
 	padding: 40px 30px; 
 	margin-top: 100px;
 }
@@ -2130,7 +2138,7 @@ ul.lik li a:hover {
 }
 
 .copyright {
-	background-color: #ffc221;
+	background-color: #ffc221; background-color: #085263;
 	padding: 20px 0px;
 	margin-top: 70px;
 }
@@ -2158,7 +2166,7 @@ ul.lik li a:hover {
 
 
 .brand_color {
-     background-color: #ffc221;
+     background-color: #ffc221; background-color: #085263;
 }
 .brand_color .titlepage {
      margin-top: 70px;
